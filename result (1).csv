@@ -1,0 +1,5 @@
+Model,Cosine_Similarity,Pearson_Correlation,Inference_Time_ms,Model_Size_MB,Topsis Score,Rank
+SBERT,0.86,0.84,90,420,0.8006657966615437,1.0
+Universal Sentence Encoder,0.83,0.82,110,500,0.4690312811423273,3.0
+InferSent,0.8,0.78,140,350,0.3253998409970925,4.0
+SimCSE,0.88,0.86,100,400,0.7870247939301098,2.0
